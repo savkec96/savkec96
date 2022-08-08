@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @savkec96
 - 👀 I’m interested in Front-End development.
 - 🌱 I’m currently learning React framework.
-- 💞️ I’m looking to collaborate on web design and animation.
+- 💞️ I’m looking to collaborate on web design and animations.
 - 📫 How to reach me: savoj96@gmail.com
 
 <!---
